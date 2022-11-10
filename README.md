@@ -1,3 +1,5 @@
-# angular-ivy-rqxsrr
+# Understand Composition and inheritance in Angular.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-rqxsrr)
+[Read Article: Composition and inheritance in Angular](https://www.danywalls.com/understand-composition-and-inheritance-in-angular)
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/danywalls/use-composition-in-angular-components)
